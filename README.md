@@ -1,17 +1,9 @@
 # Xc1Ym
 
-## 访客数
-
 ![:name](https://count.getloli.com/get/@Xc1Ym??theme=gelbooru-h)
-
-## 工作
-
-![](https://img.shields.io/badge/Cyber%20security-Red%20%26%20Blue%20Team-green)
-
-## 统计数据
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xc1Ym&layout=compact&locale=cn)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Xc1Ym&hide_title=true"/>
 
+![](https://img.shields.io/badge/Cyber%20security-Red%20%26%20Blue%20Team-green)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xc1Ym&layout=compact&locale=cn)
