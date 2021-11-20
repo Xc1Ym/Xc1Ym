@@ -9,7 +9,3 @@
 ## Github相关
 
 ![](https://github-readme-stats.vercel.app/api?username=Xc1Ym&hide_title=true)
-
-## 访客
-
-![:name](https://count.getloli.com/get/@Xc1Ym??theme=gelbooru-h)
