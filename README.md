@@ -1,6 +1,6 @@
 # Xc1Ym
 
-![](https://img.shields.io/badge/Cyber%20security-Red%20%26%20Blue%20Team-green)
+![](https://img.shields.io/badge/Cyber%20security-Red%20%26%20Team-green)
 
 ## 技能
 
